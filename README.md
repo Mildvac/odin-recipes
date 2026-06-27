@@ -19,4 +19,4 @@ By completing this project, you will have demonstrated:
 - **Git**: Version control, branching, merging, and collaborating via GitHub.
 - **Basic Web Design**: Organizing information for readability and accessibility.
 
-_| AI README Generated _
+> AI README Generated.
